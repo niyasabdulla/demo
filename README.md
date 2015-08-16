@@ -1,2 +1,0 @@
-# demo
-PHP Demo site
